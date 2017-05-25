@@ -1,0 +1,45 @@
+body {
+	background: blue;
+}
+h2 {
+	background: red;
+	color: white;
+	width: 100px;
+	height: 28px;
+}
+.blue {
+	background: mediumslateblue;
+	width: 300px;
+	height: 50px;
+}
+hr {
+	width: 350px;
+	margin: 0px;
+}
+.yel{
+	background: yellow;
+	width: 300px;
+	height: 40px;
+}
+.one {
+	background: red;
+	width: 50px;
+	height: 35px;
+}
+.two {
+	background: orange;
+	width: 100px;
+	height: 35px;
+}
+.three {
+	background: mediumslateblue;
+	width: 150px;
+	height: 35px;
+}
+.joy {
+	background: orangered;
+    font-size: 40px;
+    width: 220px;
+    height: 45px;
+    padding: 25px 25px 40px 25px;
+}
